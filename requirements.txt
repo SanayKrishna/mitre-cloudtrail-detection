@@ -1,0 +1,9 @@
+# MITRE ATT&CK Cloud TTP Detection Engine -- pinned dependencies.
+fastapi==0.125.0
+uvicorn[standard]==0.38.0
+stix2==3.0.2
+boto3==1.42.77
+pydantic==2.12.5
+python-dotenv==1.2.1
+pytest==9.1.1
+httpx==0.28.1
