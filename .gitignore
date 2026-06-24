@@ -54,7 +54,6 @@ venv.bak/
 # Project-specific
 data/enterprise-attack.json
 dashboard.html
-.claude/
 *.jsonl
 
 # Logs
